@@ -5,7 +5,7 @@ Cairn is an exceptional climbing simulator, boasting beautiful graphics, captiva
 1. Download both character.bnk and dialogue.bnk from this Github site.
    
 2. Go to the game directory at
-   "Your Drive\Cairn\Cairn_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\English(US)".
+   "..\Cairn\Cairn_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\English(US)".
    
 3. Rename the original character.bnk and dialogue.bnk as character1.bnk and dialogue1.bnk.
  
