@@ -19,5 +19,9 @@ To create the mod, AI (Claude/Chatgpt/Gemini)  + vibe coding utilised as below:
 
 2. Run Wwise Unpacker to unpack "character.bnk" and "dialogue.bnk" to get both WEM and WAV files.
    
-3. Install python 
+3. Install python (v3.11 or below) + whisper (Use medium model) to transcribe the WAV files into TXT files.
+
+4. Run a script to compare all the transcribed TXT files against a profanity list and flag those that contain profanities.
+   
+5. Run FFmpeg on th
    
