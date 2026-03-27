@@ -4,7 +4,7 @@ Cairn is an exceptional climbing simulator, boasting beautiful graphics, captiva
 # Usage
 Before proceeding as below, go to the game sound directory at "..\Cairn\Cairn_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\English(US)" and backup "character.bnk" and "dialogue".bnk" first.
 
-1. Create a folder on your desktop, e.g., ABC. Download "WEM patch.rar" from this site. Unrar all files into this folder.
+1. Create a folder on your desktop, e.g., ABC. Then, download "WEM patch.rar" from this site and unpack all files into this folder.
 
 2. Go to the game sound directory at
    "..\Cairn\Cairn_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\English(US)".
