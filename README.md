@@ -5,6 +5,8 @@ Cairn is an exceptional climbing simulator, boasting beautiful graphics, captiva
 IMPORTANT!! 
 Before installing, go to the game sound folder at "..\Cairn\Cairn_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\English(US)" and backup "character.bnk" and "dialogue".bnk" first.
 
+This mod uses Python scripts. Please ensure you have Python installed. 
+
 1. Create a folder on your desktop, e.g., Temp. Then, download "character.rar" from this site and unpack all files into Temp.
 
 2. Go to the game sound folder at
